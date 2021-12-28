@@ -9,7 +9,7 @@ int main(void)
     while (1)
     {
     nrf_gpio_pin_set(0);
-    nrf_delay_ms(50);
+    nrf_delay_ms(500);
     nrf_gpio_pin_clear(0);
     nrf_delay_ms(50);
     }
