@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "cstdbool": "c",
+        "freertos.h": "c",
+        "nrf.h": "c",
+        "boards.h": "c",
+        "nordic_common.h": "c",
+        "nrfx_temp.h": "c",
+        "nrf51.h": "c",
+        "core_cm0.h": "c",
+        "system_nrf51.h": "c",
+        "nrf51_bitfields.h": "c",
+        "nrf51_deprecated.h": "c",
+        "nrf_temp.h": "c",
+        "nrfx.h": "c",
+        "nrf_gpio.h": "c",
+        "app_timer.h": "c",
+        "nrf_drv_clock.h": "c",
+        "nrf_mbr.h": "c",
+        "nrf_sd_def.h": "c",
+        "nrf_sdh.h": "c",
+        "nrf_section_iter.h": "c",
+        "nrf_log.h": "c",
+        "nrf_log_internal.h": "c",
+        "nrf_delay.h": "c"
+    }
+}

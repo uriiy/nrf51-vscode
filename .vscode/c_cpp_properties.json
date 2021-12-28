@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "nRF SDK",
+            "compilerPath": "${ARMGCC_DIR}/arm-none-eabi-gcc.exe",
+            "includePath": [
+                "C:/dev/tools/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include",
+                "C:/dev/tools/gcc-arm-none-eabi-10.3-2021.10/lib/gcc/arm-none-eabi/10.3.1/include-fixed",
+                "${workspaceFolder}/**",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/**",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/modules/nrfx/drivers/include",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/modules/nrfx/hal",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/components/libraries/timer",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/components/softdevice/common",
+                "C:/Users/uriiy/_GIT/NRF52840/nRF5_SDK_17.0.2/integration/nrfx/legacy"
+            ],
+            "defines": [
+                "NRF51",
+                "NRF51822_XXAA",
+                "SOFTDEVICE_PRESENT",
+                "S130"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}

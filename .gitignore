@@ -1,0 +1,12 @@
+build/gcc_startup_nrf51.d
+build/gcc_startup_nrf51.o
+build/main.d
+build/main.lst
+build/main.o
+build/make_test.bin
+build/make_test.elf
+build/make_test.hex
+build/make_test.map
+build/system_nrf51.d
+build/system_nrf51.lst
+build/system_nrf51.o
